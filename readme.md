@@ -7,7 +7,7 @@ Campo Grande, MS
 </p>
 
 <p align="center">
-<a href="https://agabrielr.github.io/"><img src="https://img.shields.io/badge/Protótipos-ver_online-111111?style=for-the-badge" alt="Ver os protótipos online"></a>
+<a href="https://agabrielr.github.io/"><img src="https://img.shields.io/badge/Portfólio-ver_online-111111?style=for-the-badge" alt="Ver o portfólio online"></a>
 <a href="https://wa.me/5567996605633?text=Ol%C3%A1%2C%20Ant%C3%B4nio!%20Vi%20seu%20GitHub%20e%20queria%20conversar%20sobre%20um%20projeto."><img src="https://img.shields.io/badge/WhatsApp-conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Conversar no WhatsApp"></a>
 <a href="https://www.linkedin.com/in/antonio-reis-agr/"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:gabrielreis130@gmail.com"><img src="https://img.shields.io/badge/E--mail-escrever-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
@@ -30,6 +30,8 @@ Campo Grande, MS
 
 Cada negócio ganha o próprio endereço, com a sua marca, seus serviços e a sua agenda. O cliente agenda pelo celular sem criar conta e sem baixar aplicativo.
 
+Teste como cliente: [agendar no Salão Aurora](https://salao-aurora.marcaionline.com.br/) ou [fazer um pedido na Forno & Afeto](https://forno-e-afeto.marcaionline.com.br/), dois negócios de exemplo dentro do sistema.
+
 - Vários negócios no mesmo sistema, com os dados de cada um isolados pelo endereço (multi-tenant).
 - Agenda que confere a vaga na hora de marcar e não deixa dois clientes pegarem o mesmo horário.
 - Orçamento com sinal, Pix e cobrança recorrente pelo Mercado Pago.
@@ -40,7 +42,7 @@ Cada negócio ganha o próprio endereço, com a sua marca, seus serviços e a su
 
 ### Protótipos
 
-Ideias de sistemas para negócios locais. Abrem no celular, com dados de exemplo e login de teste. Estão todos em **[agabrielr.github.io](https://agabrielr.github.io/)**.
+Ideias de sistemas para negócios locais. Abrem no celular, com dados de exemplo e login de teste (senha `demo`). Estão todos no meu **[portfólio](https://agabrielr.github.io/)**, junto com o Marcaí.
 
 | | Para quem | O que dá para testar |
 |---|---|---|
@@ -72,4 +74,4 @@ Ideias de sistemas para negócios locais. Abrem no celular, com dados de exemplo
 
 Se algum processo do seu negócio vive no caderno, na planilha ou no grupo do WhatsApp, me conta. Eu ajudo a transformar isso num sistema simples de usar no celular.
 
-**[Mandar mensagem no WhatsApp](https://wa.me/5567996605633?text=Ol%C3%A1%2C%20Ant%C3%B4nio!%20Tenho%20uma%20ideia%20e%20queria%20conversar.)** · **[Ver os protótipos](https://agabrielr.github.io/)**
+**[Mandar mensagem no WhatsApp](https://wa.me/5567996605633?text=Ol%C3%A1%2C%20Ant%C3%B4nio!%20Tenho%20uma%20ideia%20e%20queria%20conversar.)** · **[Ver o portfólio](https://agabrielr.github.io/)**
