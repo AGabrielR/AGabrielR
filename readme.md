@@ -48,13 +48,20 @@ Try it as a customer: [book at Salão Aurora](https://salao-aurora.marcaionline.
 
 ### Prototypes
 
-System ideas for local businesses. They run on the phone with sample data and test logins (password `demo`). All of them are on my **[portfolio](https://agabrielr.github.io/)**, next to Marcaí.
+Ten system ideas for local businesses. They run on the phone with sample data and test logins (password `demo`). All of them are on my **[portfolio](https://agabrielr.github.io/)**, next to Marcaí.
 
 | | For | What you can try |
 |---|---|---|
 | **[Polo Clima](https://agabrielr.github.io/polo-clima/)** | Air conditioning, electric fence, CCTV and solar companies | Storefront backed by the company's own inventory, tickets by link, work orders with checklist and photos, team commissions and monthly income |
 | **[ObraClara](https://agabrielr.github.io/obraclara/)** | Homeowners and contractors | Labor quotes where contractors can't see each other's prices, direct requests answered by link, and the job tracked stage by stage |
 | **[Campo Certo](https://agabrielr.github.io/campo-certo/)** | Beef cattle ranches | Pastures and herds, weighing with daily gain, a diary with photos and rainfall, a foreman role without access to money, and a herd sheet for buyers |
+| **[Locafesta](https://agabrielr.github.io/locafesta/)** | Party rental businesses | Availability per date, delivery fee by neighborhood, contract and Pix deposit by link, and the delivery route of the day |
+| **[Apito](https://agabrielr.github.io/apito/)** | Sports and dance schools | Classes, attendance on the phone, Pix tuition with ready-made reminders and a parent portal |
+| **[Patinhas](https://agabrielr.github.io/patinhas/)** | Pet daycare and hotels | Daily capacity, vaccines that block bookings when expired, and a daily report with photos for the owner |
+| **[Festeiro](https://agabrielr.github.io/festeiro/)** | Kids party venues | Calendar by room and shift, instant quotes, contract with installments and an online invitation with RSVP |
+| **[VaiVan](https://agabrielr.github.io/vaivan/)** | School transport vans | Driver route in order, boarding and arrival alerts for parents, absences reported by link and tuition |
+| **[Caderneta](https://agabrielr.github.io/caderneta/)** | Neighborhood stores | Store credit on the phone: who owes what, credit limits, WhatsApp reminders with Pix and a statement link |
+| **[Chave na Mão](https://agabrielr.github.io/chave/)** | Small real estate agencies | Rent collection, yearly adjustments, owner payouts, inspections with photos and a tenant portal |
 
 ### Tech I work with
 
@@ -113,11 +120,18 @@ Teste como cliente: [agendar no Salão Aurora](https://salao-aurora.marcaionline
 
 ### Protótipos
 
-Ideias de sistemas para negócios locais, que abrem no celular com dados de exemplo e login de teste (senha `demo`). Estão todos no meu **[portfólio](https://agabrielr.github.io/)**:
+Dez ideias de sistemas para negócios locais, que abrem no celular com dados de exemplo e login de teste (senha `demo`). Estão todos no meu **[portfólio](https://agabrielr.github.io/)**:
 
 - **[Polo Clima](https://agabrielr.github.io/polo-clima/)**: para empresas de ar-condicionado, cerca elétrica, câmeras e energia solar. Loja com estoque próprio, chamados pelo link, ordens de serviço, equipe com comissão e renda do mês.
 - **[ObraClara](https://agabrielr.github.io/obraclara/)**: para quem vai reformar e quem faz a obra. Propostas de mão de obra sem um empreiteiro ver o preço do outro e obra acompanhada por etapas.
 - **[Campo Certo](https://agabrielr.github.io/campo-certo/)**: para fazendas de gado de corte. Pastos e lotes, pesagem com a engorda calculada, diário com fotos e ficha do lote para o comprador.
+- **[Locafesta](https://agabrielr.github.io/locafesta/)**: para locadoras de festa. Disponibilidade por data, frete por bairro, contrato e sinal por Pix pelo link e rota de entrega do dia.
+- **[Apito](https://agabrielr.github.io/apito/)**: para escolinhas de esporte e dança. Turmas, chamada pelo celular, mensalidade por Pix e portal do responsável.
+- **[Patinhas](https://agabrielr.github.io/patinhas/)**: para creche e hotel de pets. Vagas por dia, vacinas que bloqueiam a reserva quando vencem e relatório do dia com foto.
+- **[Festeiro](https://agabrielr.github.io/festeiro/)**: para buffet infantil. Agenda por salão e turno, proposta com total na hora, contrato e convite com lista de presença.
+- **[VaiVan](https://agabrielr.github.io/vaivan/)**: para transporte escolar. Rota do motorista, aviso de embarque e chegada aos pais e mensalidade.
+- **[Caderneta](https://agabrielr.github.io/caderneta/)**: para lojas de bairro. O fiado no celular, com limite, cobrança no WhatsApp e extrato por link.
+- **[Chave na Mão](https://agabrielr.github.io/chave/)**: para imobiliárias pequenas. Aluguéis, reajuste, repasse ao proprietário, vistoria e portal do inquilino.
 
 ### Tem uma ideia?
 
